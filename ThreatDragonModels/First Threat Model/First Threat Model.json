@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "First Threat Model",
+    "owner": "Sreeni",
+    "description": "This is my first threat model using Threat Dragon and WebGoat.Net project"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Sreeni"
+  }
+}
